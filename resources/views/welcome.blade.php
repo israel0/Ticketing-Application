@@ -15,7 +15,8 @@
     </head>
 
     <body>
-        <livewire:counter /> 
+        
+        <livewire:comment />
 
         @livewireScripts
 
